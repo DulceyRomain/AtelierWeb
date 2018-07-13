@@ -1,0 +1,20 @@
+#contenu{
+
+}
+
+#navbarNav{
+    display: flex;
+    justify-content: space-around;
+    background : linear-gradient(45deg, blue, white , red);
+    
+}
+
+footer{
+    background : linear-gradient(45deg, blue, white , red);
+}
+
+footer p{
+    color: black;
+}
+
+

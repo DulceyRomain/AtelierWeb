@@ -1,0 +1,14 @@
+#contenu{
+  
+}
+#navbarNav{
+    display: flex;
+    justify-content: space-around;
+    background : linear-gradient(45deg, yellow, green , yellow);
+     
+}
+
+footer{
+    background : linear-gradient(45deg, yellow, green , yellow);
+
+}

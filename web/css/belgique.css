@@ -1,0 +1,16 @@
+
+
+#navbarNav{
+    display: flex;
+    justify-content: space-around;
+    background : linear-gradient(45deg, black, yellow , red);
+    
+}
+
+footer{
+    background : linear-gradient(45deg, black, yellow , red);
+}
+
+footer p{
+    color: black;
+}

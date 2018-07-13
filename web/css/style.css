@@ -1,0 +1,33 @@
+html{
+    height: 100%;
+}
+
+body{
+    margin: 0;
+     height: 100%;
+}
+
+.container{
+     height : 100%;
+}
+
+.block {
+    text-align: center;
+    display: flex ;
+    flex-direction: column;
+   
+}
+
+
+.col-sm-10{
+       padding-left: 0px;
+}
+
+#caseTab:hover{
+    background-color: #544e4e;
+}
+
+#caseCell{
+    padding-right: 0px;
+    padding-left : 15px;
+}
